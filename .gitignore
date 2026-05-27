@@ -1,0 +1,12 @@
+**/node_modules/
+**/dist/
+**/build/
+**/.cache/
+**/coverage/
+**/.next/
+**/.nuxt/
+**/.svelte-kit/
+**/.turbo/
+**/.env
+**/.env.*
+!**/.env.example
